@@ -1,10 +1,13 @@
+
+![header](https://user-images.githubusercontent.com/70321802/132954909-a9630569-c9bb-416f-a61e-6d4694131e43.png)
+
 # Unseen Gaming GRF
 
 Simple to the point GRF for the Avarage PvM Player and also for the more advanced ones!
 
 ## Description
 
-Utelizing the best of all availible GRF masched into one to get the best PvM Experience possible.
+Utilizing the best of all availible GRF masched into one to get the best PvM Experience possible.
 
 ## Getting Started
 
