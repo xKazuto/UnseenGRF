@@ -177,6 +177,23 @@ StateIconList[EFST_IDs.EFST_FOOD_STR] = {
     { "Increase STR" }
   }
 }
+StateIconList[EFST_IDs.EFST_ADD_ATK_DAMAGE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 1,
+  descript = {
+    { "%s", COLOR_TIME },
+    { "Increase melee physical damage by 15%" },
+	{ "Increase long range physical damage by 15%" }
+  }
+}
+StateIconList[EFST_IDs.EFST_ADD_MATK_DAMAGE] = {
+  haveTimeLimit = 1,
+  posTimeLimitStr = 1,
+  descript = {
+    { "%s", COLOR_TIME },
+	{ "Increase all property magical damage by 15%" }
+  }
+}
 StateIconList[EFST_IDs.EFST_HALLUCINATIONWALK] = {
   haveTimeLimit = 1,
   posTimeLimitStr = 2,
@@ -192,6 +209,48 @@ StateIconList[EFST_IDs.EFST_STORMKICK_ON] = {
     { "Tornado Kick", COLOR_TITLE_BUFF },
     { "When hit the target" },
     { "have chance to be in Tornado Stance" }
+  }
+}
+StateIconList[EFST_IDs.EFST_SPELLBOOK1] = {
+  descript = {
+    { "Spell Book Counter", COLOR_TITLE_BUFF },
+    { "You currently are holding a spell!" }
+  }
+}
+StateIconList[EFST_IDs.EFST_SPELLBOOK2] = {
+  descript = {
+    { "Spell Book Counter", COLOR_TITLE_BUFF },
+    { "You currently are holding a spell!" }
+  }
+}
+StateIconList[EFST_IDs.EFST_SPELLBOOK3] = {
+  descript = {
+    { "Spell Book Counter", COLOR_TITLE_BUFF },
+    { "You currently are holding a spell!" }
+  }
+}
+StateIconList[EFST_IDs.EFST_SPELLBOOK4] = {
+  descript = {
+    { "Spell Book Counter", COLOR_TITLE_BUFF },
+    { "You currently are holding a spell!" }
+  }
+}
+StateIconList[EFST_IDs.EFST_SPELLBOOK5] = {
+  descript = {
+    { "Spell Book Counter", COLOR_TITLE_BUFF },
+    { "You currently are holding a spell!" }
+  }
+}
+StateIconList[EFST_IDs.EFST_SPELLBOOK6] = {
+  descript = {
+    { "Spell Book Counter", COLOR_TITLE_BUFF },
+    { "You currently are holding a spell!" }
+  }
+}
+StateIconList[EFST_IDs.EFST_SPELLBOOK7] = {
+  descript = {
+    { "Spell Book Counter", COLOR_TITLE_BUFF },
+    { "You currently are holding a spell!" }
   }
 }
 StateIconList[EFST_IDs.EFST_KAUPE] = {
@@ -3299,7 +3358,10 @@ StateIconList[EFST_IDs.EFST_MONSTER_TRANSFORM] = {
 }
 StateIconList[EFST_IDs.EFST_SIT] = {
   descript = {
-    { "Sitting", COLOR_TITLE_TOGGLE}
+    { "Sitting", COLOR_TITLE_TOGGLE},
+	{ "[PERMANENT] or until you move your ass", COLOR_TIME },
+    {"You wont gain Zeny from sitting, YOU SLOTH!"},
+	{"Your rate of making Zeny is decreased by 100%"}
   }
 }
 StateIconList[EFST_IDs.EFST_ALL_RIDING] = {

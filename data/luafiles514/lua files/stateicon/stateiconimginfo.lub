@@ -152,6 +152,15 @@ StateIconImgList = {
 		[EFST_IDs.EFST_MH_IMMOLATE] = "mh_immolate.tga",
 		[EFST_IDs.EFST_MAGIC_POISON] = "VACUUM_EXTREME.tga",
 		[EFST_IDs.EFST_MISTY_FROST] = "FROSTMISTY.tga",
+		-- [UNSEEN EDIT]
+		[EFST_IDs.EFST_ADD_ATK_DAMAGE] = "unseen_red_herb.tga",
+		[EFST_IDs.EFST_SPELLBOOK1] = "Unseens_Spellbook.tga",
+		[EFST_IDs.EFST_SPELLBOOK2] = "Unseens_Spellbook.tga",
+		[EFST_IDs.EFST_SPELLBOOK3] = "Unseens_Spellbook.tga",
+		[EFST_IDs.EFST_SPELLBOOK4] = "Unseens_Spellbook.tga",
+		[EFST_IDs.EFST_SPELLBOOK5] = "Unseens_Spellbook.tga",
+		[EFST_IDs.EFST_SPELLBOOK6] = "Unseens_Spellbook.tga",
+		[EFST_IDs.EFST_SPELLBOOK7] = "Unseens_Spellbook.tga",
 	},
 	[PRIORITY_BLUE] = {
 		[EFST_IDs.EFST_ATTHASTE_CASH] = "ASPDCASH.tga",
@@ -281,6 +290,7 @@ StateIconImgList = {
 		[EFST_IDs.EFST_DEFIANT_STAND] = "mh_defiant_stand.tga",
 		[EFST_IDs.EFST_MH_ENERGIZED] = "MH_Energized.TGA",
 		[EFST_IDs.EFST_MH_DIVINITY] = "mh_divinity.tga",
+		[EFST_IDs.EFST_ADD_MATK_DAMAGE] = "unseen_blue_herb.tga",
 	},
 	[PRIORITY_GREEN] = {
 		[EFST_IDs.EFST_SET_NUM_DEF] = "SETDEF.tga",
