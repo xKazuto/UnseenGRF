@@ -7,7 +7,7 @@ Simple to the point GRF for the Avarage PvM Player and also for the more advance
 
 ## Description
 
-Utelizing the best of all availible GRF masched into one to get the best PvM Experience possible.
+Utilizing the best of all availible GRF masched into one to get the best PvM Experience possible.
 
 ## Getting Started
 
