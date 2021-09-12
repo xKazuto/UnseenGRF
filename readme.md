@@ -21,7 +21,7 @@ Utilizing the best of all availible GRF masched into one to get the best PvM Exp
 
 Please take a look here: 
 
-
+[<img src="https://img.youtube.com/vi/z0KVxRBmUm8/maxresdefault.jpg" width="45%">](https://youtu.be/z0KVxRBmUm8)
 
 ## General Information
 
