@@ -17,7 +17,7 @@ Utilizing the best of all availible GRF masched into one to get the best PvM Exp
 - Skill Effect edits (They are performance friendly.)
 - UI edits (Move Vision.)
 - Performance increasing Changes
-- More Vibrant and inclusive skill icons
+- More Vibrant and unique Skill icons/Descriptions
 
 Please take a look here: 
 
