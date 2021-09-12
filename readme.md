@@ -9,7 +9,17 @@ Simple to the point GRF for the Avarage PvM Player and also for the more advance
 
 Utilizing the best of all availible GRF masched into one to get the best PvM Experience possible.
 
-## Getting Started
+## With version 1.0 we offer:
+
+- Simple Bio 5, Einbech 3, Odins 4 and Geffenia Gray-map
+- Skill Effect edits (They are performance friendly.)
+- UI edits (Move Vision.)
+- Performance increasing Changes
+- More Vibrant and inclusive skill icons
+
+Please take a look here: 
+
+
 
 ### Information
 
