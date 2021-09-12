@@ -13,7 +13,7 @@ Utilizing the best of all availible GRF masched into one to get the best PvM Exp
 
 ### With version 1.0 we offer:
 
-- Simple Bio 5, Einbech 3, Odins 4 and geffenia Gray-map
+- Simple Bio 5, Einbech 3, Odins 4 and gefenia Gray-map
 - Skill Effect edits (They are performance friendly.)
 - UI edits (Move Vision.)
 - Performance increasing Changes
@@ -21,7 +21,7 @@ Utilizing the best of all availible GRF masched into one to get the best PvM Exp
 
 Please take a look here: 
 
-
+[<img src="https://img.youtube.com/vi/z0KVxRBmUm8/maxresdefault.jpg" width="45%">](https://youtu.be/z0KVxRBmUm8)
 
 ## General Information
 
