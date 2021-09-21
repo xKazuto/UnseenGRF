@@ -129,7 +129,7 @@ StateIconList[EFST_IDs.EFST_MANU_DEF] = {
     { "Manuk's Will", COLOR_TITLE_BUFF },
     { "%s", COLOR_TIME },
     { "Decrease physical/magical damage" },
-    { "from the monsters in Manuk field" }
+    { "from the monsters in Manuk field." }
   }
 }
 StateIconList[EFST_IDs.EFST_CONCENTRATION] = {
