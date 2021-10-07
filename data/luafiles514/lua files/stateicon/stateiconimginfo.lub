@@ -35,8 +35,8 @@ StateIconImgList = {
 		[EFST_IDs.EFST_PAD_READER_DANCER] = "gogi.tga",
 		[EFST_IDs.EFST_PAD_READER_TAEKWON] = "gogi.tga",
 		[EFST_IDs.EFST_PAD_READER_NINJA] = "gogi.tga",
-		[EFST_IDs.EFST_PAD_READER_GUNSLINGER] = "gogi.tga",
-		[EFST_IDs.EFST_PAD_READER_SUPERNOVICE] = "gogi.tga"
+		[EFST_IDs.EFST_PAD_READER_SUPERNOVICE] = "gogi.tga",
+		[EFST_IDs.EFST_PAD_READER_GUNSLINGER] = "gogi.tga"
 	},
 	[PRIORITY_RED] = {
 		-- UNSEEN FOOD STATE ICONS

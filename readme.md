@@ -54,6 +54,8 @@ Contributors names and contact info
 
 * 1.0
     * Initial Release
+* 1.1
+    * Halloween Support added
 
 
 ## Acknowledgments
